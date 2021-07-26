@@ -23,7 +23,7 @@ namespace System.Drawing.Html
         h1, h2, h3, h4,
         h5, h6, noframes,
         ol, p, ul, center,
-        dir, hr, menu, pre   { display: block }
+        dir, hr, menu, pre, br   { display: block }
         li              { display: list-item }
         head            { display: none }
         table           { display: table }
